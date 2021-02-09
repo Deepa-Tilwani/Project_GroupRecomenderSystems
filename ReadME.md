@@ -1,6 +1,6 @@
 # Group-movie-recommender-system
 
-This is a group project. I had created this project with other two team members
+This is a group project. I had created this project with other two team members for my assignment submission.
 
 We tried to implement a Group Recommender System based on the following paper:
 
